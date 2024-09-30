@@ -1,0 +1,26 @@
+// remove from body left the margin, display, and min height. In the index.css
+
+// install meterial-ui
+# npm install @mui/meterial @emotion/react @emotion/styled
+
+// install React with npx
+# npx create-react-app dirName
+
+// run index.js to test browse
+# npm start
+
+// App.js is main scrach
+---------------------------------------
+
+// start with vite + react
+# npm create-vite@latest
+# choose: React
+# choose: Languege
+
+// install package
+# npm i
+
+// run 
+# npm run dev
+
+// App.jsx main work bentch
